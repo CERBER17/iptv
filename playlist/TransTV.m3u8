@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2255097,CODECS="avc1.64001f,mp4a.40.2",RESOLUTION=1280x720
-https://20.detik.com/watch/livestreaming-transtv
+https://etslive-2-vidio-com.akamaized.net/exp=1708373357~acl=/hls-p/ingest_204_*/*~hmac=f6129735a0f2aa1f62185f9c8e9311fb7aaf92d75ee8301e3b114144e6b3eb59/hls-p/ingest_204_720p/index.m3u8
