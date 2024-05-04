@@ -1,10 +1,13 @@
 #EXTM3U
 
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/ #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/ #EXTINF:-1 tvg-id="HBO HD" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png" group-title="Premium Movies",HBO (Transcorp) https://cdnjkt4.transvision.co.id:1004/live/master/4/4028c6856b6088c3016b87d64b970b53/manifest.mpd
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/ #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/ 
+#EXTINF:-1 tvg-id="HBO HD" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png" group-title="Premium Movies",HBO (Transcorp) https://cdnjkt4.transvision.co.id:1004/live/master/4/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/ #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/ #EXTINF:-1 tvg-id="HBO Hits HD" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/HBO%20HITS.png" group-title="Premium Movies",HBO Hits (Transcorp) https://cdnjkt4.transvision.co.id:1004/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/ #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/ 
+#EXTINF:-1 tvg-id="HBO Hits HD" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/HBO%20HITS.png" group-title="Premium Movies",HBO Hits (Transcorp) https://cdnjkt4.transvision.co.id:1004/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
 
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/ #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/ #EXTINF:-1 tvg-id="HBO Family HD" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/HBO%20Family.png" group-title="Premium Movies",HBO Family (Transcorp) https://cdnjkt4.transvision.co.id:1004/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/ #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/ 
+#EXTINF:-1 tvg-id="HBO Family HD" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/HBO%20Family.png" group-title="Premium Movies",HBO Family (Transcorp) https://cdnjkt4.transvision.co.id:1004/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/ #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/ #EXTINF:-1 tvg-id="HBO Signature HD" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="Premium Movies",HBO Signature (Transcorp) https://cdnjkt4.transvision.co.id:1004/live/master/4/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
 
@@ -12103,58 +12106,4 @@ https://cdnjkt4.transvision.co.id:1000/encrypt/cmaf/4028c685656cf1170165b2c1e805
 https://cdnjkt4.transvision.co.id:1000/encrypt/cmaf/4028c68564e071cf016519ef34c509d0/Manifest.mpd
 
 #EXTINF:-1 group-title="FTV INDONESIA" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/library/4028c68566a0670d0166cec773e828b0/20181101113435.jpg",Perempuan Bahu Laweyan
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://worker-broken-night-10a9.nisisih403.workers.dev/license
-https://cdnjkt4.transvision.co.id:1000/encrypt/cmaf/4028c68566a0670d0166cec773e828b0/Manifest.mpd
-
-#EXTINF:-1 group-title="FTV INDONESIA" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/library/4028c6856f9d1e00016f9e9ab3340381/4ea670dc-7915-42df-886a-1b130c04c2a3.jpg",Kembalikan Tubuhku
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://worker-broken-night-10a9.nisisih403.workers.dev/license
-https://cdnjkt4.transvision.co.id:1000/encrypt/cmaf/4028c6856f9d1e00016f9e9ab3340381/Manifest.mpd
-
-#EXTINF:-1 group-title="FTV INDONESIA" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/library/4028c6856c3db2cc016c4213c920055b/90967e6f-c94b-4929-ae03-d99f3f405a7a.jpg",Undangan
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://worker-broken-night-10a9.nisisih403.workers.dev/license
-https://cdnjkt4.transvision.co.id:1000/encrypt/cmaf/4028c6856c3db2cc016c4213c920055b/Manifest.mpd
-
-#EXTINF:-1 group-title="FTV INDONESIA" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/library/4028c68573ea953701742463ce36100b/c573de6c-734f-4f4b-983b-e654738f0a71.jpg",Toko Kr.Amat Pot Antik Misterius
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://worker-broken-night-10a9.nisisih403.workers.dev/license
-https://cdnjkt4.transvision.co.id:1000/encrypt/cmaf/4028c68573ea953701742463ce36100b/Manifest.mpd
-
-#EXTINF:-1 group-title="FTV INDONESIA" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/library/4028c6856c3db2cc016c42118de8055a/622f5604-7a00-4701-8199-57c086c77715.jpg",Mencari Cinta Di Danau Terlarang
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://worker-broken-night-10a9.nisisih403.workers.dev/license
-https://cdnjkt4.transvision.co.id:1000/encrypt/cmaf/4028c6856c3db2cc016c42118de8055a/Manifest.mpd
-
-#EXTINF:-1 group-title="FTV INDONESIA" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/library/4028c6856f08326c016f4661e83959c5/348ed786-60ce-46a0-83db-51ea812acbe7.jpg",Tas Penasaran
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://worker-broken-night-10a9.nisisih403.workers.dev/license
-https://cdnjkt4.transvision.co.id:1000/encrypt/cmaf/4028c6856f08326c016f4661e83959c5/Manifest.mpd
-
-#EXTINF:-1 group-title="FTV INDONESIA" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/library/4028c6856f08326c016f31897671751f/c80567cb-d8e2-4196-9cf4-bea521ab109f.jpg",Telepon Tengah Malam
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://worker-broken-night-10a9.nisisih403.workers.dev/license
-https://cdnjkt4.transvision.co.id:1000/encrypt/cmaf/4028c6856f08326c016f31897671751f/Manifest.mpd
-
-#EXTINF:-1 group-title="FTV INDONESIA" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/library/4028c6856c3db2cc016c5fa3e9d92086/e54cb34e-8107-4534-a6b4-f87d1733f78f.jpg",Misteri Nada Yang Hilang
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://worker-broken-night-10a9.nisisih403.workers.dev/license
-https://cdnjkt4.transvision.co.id:1000/encrypt/cmaf/4028c6856c3db2cc016c5fa3e9d92086/Manifest.mpd
-
-#EXTINF:-1 group-title="FTV INDONESIA" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/library/4028c6856f08326c016f31102fff7515/a8c41e30-1755-4f6e-b96b-b54e33732fd8.jpg",Misteri Sosok Ibu
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://worker-broken-night-10a9.nisisih403.workers.dev/license
-https://cdnjkt4.transvision.co.id:1000/encrypt/cmaf/4028c6856f08326c016f31102fff7515/Manifest.mpd
-
-#EXTINF:-1 group-title="FTV INDONESIA" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/library/4028c6856c3db2cc016c5a75d9182026/5209dde9-8736-4da3-a4a8-cdd0a2969a58.jpg",PDKT Berbahaya
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://worker-broken-night-10a9.nisisih403.workers.dev/license
-https://cdnjkt4.transvision.co.id:1000/encrypt/cmaf/4028c6856c3db2cc016c5a75d9182026/Manifest.mpd
-
-#EXTINF:-1 group-title="FTV INDONESIA" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/library/4028c6856f08326c016f2bd63e78748d/1be7d242-0712-4743-b7df-b4d4244c78c8.jpg",Insiden Pemadaman Bergilir
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://worker-broken-night-10a9.nisisih403.workers.dev/license
-https://cdnjkt4.transvision.co.id:1000/encrypt/cmaf/4028c6856f08326c016f2bd63e78748d/Manifest.mpd
-
-#EXTINF:-1 group-title="FTV INDONESIA" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/library/4028c685758bcfff01764b2784af528
+#KODI
