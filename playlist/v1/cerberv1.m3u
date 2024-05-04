@@ -1,7 +1,7 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id="13298" tvg-name="RCTI" tvg-logo="https://i.imgur.com/Es8iGUx.png" group-title="Indonesia",hbo
+#EXTINF:-1 tvg-id="13298" tvg-name="hbo" tvg-logo="" group-title="Indonesia",hbo
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-T285YD Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 https://1a-hbo.rctiplus.id/hbo-sdi.mpd
 
