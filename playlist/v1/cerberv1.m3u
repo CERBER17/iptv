@@ -1,7 +1,7 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="MOVIE INDO" tvg-id="HBO" tvg-logo="",HBO cerber
+#EXTINF:-1 group-title="MOVIE INDO" tvg-id="HBOcerber" tvg-logo="",HBOcerber
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/M3U/hboid.m3u8
 
