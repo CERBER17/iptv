@@ -3,7 +3,7 @@
 
 #EXTINF:-1 group-title="MOVIE INDO" tvg-id="HBOcerber" tvg-logo="",HBOcerber
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/M3U/hboid.m3u8
+https://raw.githubusercontent.com/CERBER17/iptv/main/playlist/hbo2024.m3u
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
