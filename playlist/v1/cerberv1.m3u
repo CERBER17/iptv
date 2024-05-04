@@ -17,7 +17,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h11/02.m3u8
 
 
 
-
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/ #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTINF:-1 tvg-id="9599" tvg-name="Denzs" tvg-logo="https://i.imgur.com/6qGkkTs.png" group-title="DENZ",RTV123
