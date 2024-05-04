@@ -1,6 +1,11 @@
 #EXTM3U
 
 
+
+#EXTINF:-1 tvg-id="19298" tvg-name="Denz" tvg-logo="" group-title="Indonesia",Denz1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-T285YD Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h10/02.m3u8
+
 #EXTINF:-1 tvg-id="19298" tvg-name="hbo" tvg-logo="" group-title="Indonesia",hbo
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-T285YD Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 https://1a-hbo.rctiplus.id/hbo-sdi.mpd
