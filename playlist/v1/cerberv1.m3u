@@ -9,7 +9,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h10/02.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTINF:-1 tvg-id="9999" tvg-name="Denz" tvg-logo="https://i.imgur.com/6qGkkTs.png" group-title="DENZ",RTV
+#EXTINF:-1 tvg-id="9999" tvg-name="Denz" tvg-logo="https://i.imgur.com/6qGkkTs.png" group-title="DENZ",RTV1111
 http://op-group1-swiftservehd-1.dens.tv/h/h11/02.m3u8
 
 
