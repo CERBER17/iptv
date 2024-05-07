@@ -8,7 +8,7 @@ https://production-premium-fashiontv-vidio.akamaized.net/slive/_definst_/ftv_ftv
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="VIDIO",sctv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://etslive-v3-vidio-com-tokenized.akamaized.net/live/204/master.m3u8?hdnts=exp=1715111822~acl=/live/204/*~id=allUsers~hmac=8e2204807ce4a7dc2442d913b321defcee1181debe6e9c8e73424aad6d2aa82f
-
+https://etslive-v3-vidio-com-tokenized.akamaized.net:443/hls-b/ingest_204_1080p/hdntl=exp=1715185359~acl=%2f*~id=40603061~data=hdntl~hmac=6ea0eb846de708bfd16703c634ed532ad446a96b6cebd00dbfa6e94fb9689f05/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="VIDIO",sctv 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://etslive-v3-vidio-com-tokenized.akamaized.net:443/hls-p/ingest_204_1080p/hdntl=exp=1715184168~acl=%2f*~id=allUsers~data=hdntl~hmac=d2170733a5053899bf243e52450a655b4c09a765b238489fc7b8323cc8e90c65/index.m3u8
